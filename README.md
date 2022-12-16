@@ -11,6 +11,7 @@ Our app will allow users to
   This series should enable you understand CRUD operations using MERN stack.
   
 Development
+
 Technologies
 The following technologies were used to create this app:
 
