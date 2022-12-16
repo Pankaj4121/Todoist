@@ -7,4 +7,14 @@ Our app will allow users to
     - Read todos
     - Update a todo
     - Delete a todo
+    
   This series should enable you understand CRUD operations using MERN stack.
+  
+Development
+Technologies
+The following technologies were used to create this app:
+
+MongoDB
+Express JS
+React JS
+Node JS
